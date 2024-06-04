@@ -57,6 +57,7 @@
         "jest-environment-puppeteer": "10.0.1",
         "jest-fetch-mock": "3.0.3",
         "jest-puppeteer": "^10.0.1",
+        "jest-slow-test-reporter": "^1.0.0",
         "jsdom": "^24.0.0",
         "lint-staged": "15.2.2",
         "prettier": "3.2.5",
