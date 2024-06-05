@@ -1,0 +1,8 @@
+import { type JestConfigWithTsJest } from "ts-jest"
+// jest.config.ts
+
+const config: JestConfigWithTsJest = {
+    projects: ["src/jest.config.ts"],
+}
+
+export default config
